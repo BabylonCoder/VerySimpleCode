@@ -7,3 +7,9 @@ The code will use x, y to predict a simple linear equation(A) from (x&y), alpha 
 
 The final part is the line formula that get generated 
 
+2- Very_Simple_Linear_Regression
+to predict only use data within the array range otherwise the plot will shoot out of range, it's simple for this reason.
+
+3- 
+
+
